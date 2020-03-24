@@ -1,3 +1,9 @@
+/*
+Author: Haonan Hu
+File: BinaryTree.cpp
+Date:3/10/2020
+Brief:File is cpp file
+*/
 #include "BinaryTree.h"
 
 BinaryTree::BinaryTree()

@@ -1,3 +1,9 @@
+/*
+Author: Haonan Hu
+File: BinaryNode.h
+Date:3/10/2020
+Brief:File is header file
+*/
 #ifndef BINARY_NODE_H
 #define BINARY_NODE_H
 #include <string>

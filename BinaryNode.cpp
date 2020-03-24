@@ -1,3 +1,9 @@
+/*
+Author: Haonan Hu
+File: BinaryNode.cpp
+Date:3/10/2020
+Brief:File is cpp file
+*/
 template <typename T>
 BinaryNode<T>::BinaryNode(T entry)
 {

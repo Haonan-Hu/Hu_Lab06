@@ -1,3 +1,9 @@
+/*
+Author: Haonan Hu
+File: BinaryTree.h
+Date:3/10/2020
+Brief:File is header file
+*/
 #ifndef BINARY_TREE_H
 #define BINARY_TREE_H
 
